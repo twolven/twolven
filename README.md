@@ -38,6 +38,8 @@ I specialize in AI/ML development, prompt engineering, and building scalable sol
 - CompTIA A+ ce
 - CompTIA Security+ ce
 - CompTIA Network+ ce
+- CompTIA Secure Infrastructure Specialist (CSIS)
+- CompTIA IT Operations Specialist (CIOS)
 
 ---
 
