@@ -13,6 +13,7 @@ I specialize in AI/ML development, prompt engineering, and building scalable sol
 
 ### 🌱 I'm currently working on
 - Model Context Protocol and development of MCP Servers
+- Distillation of LLMs on local deployments
 - Developing custom AI models for business applications
 - Integrating LLMs into existing software platforms
 - Optimizing backend infrastructure for AI workloads
